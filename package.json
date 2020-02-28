@@ -1,0 +1,44 @@
+{
+  "author": {
+    "name": "PRAJIN PRAKASH",
+    "email": "prajinprakash4u@gmail.com"
+  },
+  "bugs": {
+    "url": "http://github.com/PRAJINPRAKASH/passport-microsoft-authcode/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "passport-oauth": "0.1.x",
+    "pkginfo": "0.2.x"
+  },
+  "deprecated": false,
+  "description": "Passport strategy for authenticating with Microsoft one time authorization code using the OAuth 2.0 API.",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "homepage": "https://github.com/PRAJINPRAKASH/passport-microsoft-authcode#readme",
+  "keywords": [
+    "passport",
+    "microsoft",
+    "auth",
+    "authorization",
+    "code",
+    "authcode",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib/passport-microsoft-authcode",
+  "name": "passport-microsoft-authcode",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PRAJINPRAKASH/passport-microsoft-authcode.git"
+  },
+  "version": "0.1.5"
+}
